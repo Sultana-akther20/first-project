@@ -52,8 +52,8 @@ after openning the main page if you likes and wnat to sign up then click on the 
 1.[HTML5](https://en.wikipedia.org/wiki/HTML5)
 2.[CSS3](https://en.wikipedia.org/wiki/CSS3)
 
-##frameworks libraries and programme used:
-1.[Bootstrap](https://getbootstrap.com/)
+##frameworks libraries and programme I used:
+1.[Bootstrap](https://getbootstrap.com/) 
 2.[Font Awesome Kit](https://fontawesome.com/)
 3.[git](https://git-scm.com/)
 4.[github](https://github.com/)
@@ -88,3 +88,6 @@ code institute website,
 
 ###Deployment
 This project was diployed to github by login to the github and set up in a repository.
+
+###How I create README.md file
+I watched videoes, and get most of the idea from Code Institute website,Sample of README.md file.
