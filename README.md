@@ -49,8 +49,8 @@ after openning the main page if you likes and wnat to sign up then click on the 
 
 ##technologies used-
 ###language use
-1.[HTML5]()
-2.[CSS3]()
+1.HTML5
+2.CSS3
 
 ##frameworks libraries and programme used:
 1.Bootstrap:
@@ -69,9 +69,12 @@ after openning the main page if you likes and wnat to sign up then click on the 
 6.different organizations
 
 ##wireframes:
+Home Wireframe
+login page Wireframe
+From page Wireframe
 
 ##testing
-
+I used W3C html and W3C css validator for testing my code.
 ##testing further
 
 
