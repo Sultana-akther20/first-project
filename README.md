@@ -49,17 +49,15 @@ after openning the main page if you likes and wnat to sign up then click on the 
 
 ##technologies used-
 ###language use
-1.HTML5
-2.CSS3
+1.[HTML5](https://en.wikipedia.org/wiki/HTML5)
+2.[CSS3](https://en.wikipedia.org/wiki/CSS3)
 
 ##frameworks libraries and programme used:
-1.Bootstrap:
-2.Font Awesome Kit
-3.Media query
-4.Hover.css
-5.git
-6.github
-7.draw.io
+1.[Bootstrap](https://getbootstrap.com/)
+2.[Font Awesome Kit](https://fontawesome.com/)
+3.[git](https://git-scm.com/)
+4.[github](https://github.com/)
+5.[Figma](https://www.figma.com/)
 ##target audience:
 1. brides
 2. grooms
@@ -69,9 +67,7 @@ after openning the main page if you likes and wnat to sign up then click on the 
 6.different organizations
 
 ##wireframes:
-Home Wireframe
-login page Wireframe
-From page Wireframe
+Home page Wireframe
 
 ##testing
 I used W3C html and W3C css validator for testing my code.
@@ -89,3 +85,6 @@ code institute website,
  from my friends,
  from my tutor.
 
+
+###Deployment
+This project was diployed to github by login to the github and set up in a repository.
