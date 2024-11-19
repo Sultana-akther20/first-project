@@ -5,6 +5,7 @@ h1 {
     text-align: center;
     font-weight: bold;
 }
+
 /*style for the body, set background-color of the page, add top padding, margin for the centers content and sets font family.*/
 body {
     background-color: blanchedalmond;
@@ -13,6 +14,7 @@ body {
     margin: auto;
     font-family: Arial, Helvetica, sans-serif;
 }
+
 /*style the class home for header home page header, display items in flex container, space items evenly, center items vertically, add padding*/
 .home {
     display: flex;
@@ -20,10 +22,12 @@ body {
     align-items: center;
     padding: 0 1rem;
 }
+
 /*display nav when check-label is clicked, makes visible*/
 #check-label:checked~nav {
     display: block;
 }
+
 /*style for chech-label, hides elements, set font size, set position absolute, move elements right to 1rem*/
 #check-label {
     display: none;
@@ -31,16 +35,19 @@ body {
     position: absolute;
     right: 1rem;
 }
+
 /*add hover effect on the links, on hover change color*/
 nav a:hover {
     color: darkgreen;
 }
+
 /*style for anchor tags, padding around links, remove defaults underline,color to blue to the links*/
 a {
     padding: 0.5rem;
     text-decoration: none;
     color: blue;
 }
+
 /*style for the class image, display images in a flex container, space images evenly, add gap for 10px to space between, padding around container*/
 .image {
     display: flex;
@@ -48,11 +55,13 @@ a {
     gap: 10px;
     padding: 1rem;
 }
+
 /*style inside the class images, set container width, height to auto to maintains*/
 .image img {
     width: 23%;
     height: auto;
 }
+
 /*background image address (https://www.dreamstime.com/fern-rain-forest-green-leaf-plant-springtime-stock-images-image-free-129149944)*/
 /*style id contact for background-image,set text color, prevents repeatition*/
 #contact {
@@ -60,36 +69,43 @@ a {
     color: black;
     background-repeat: no-repeat;
 }
+
 /*style for inside class two images, set fixed height and width*/
 .two img {
     height: 400px;
     width: 300px;
 }
+
 /*style for class three, width fixed*/
 .three {
     width: 300px;
 }
+
 /*style for the video, set full width and height for vh*/
 video {
     width: 100%;
     height: 40vh;
 }
+
 /*style for class container, display in a flex container, space items evenly, center items vertically*/
 .container {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
+
 /*style for iframe, hides overflow content, set width to 50%*/
 .iframe {
     overflow: hidden;
     width: 50%;
     height: 300px;
 }
+
 /*style for class address, set the width to half of the container*/
 .address {
     width: 50%;
 }
+
 /*style for footer,set background-color to page, remove the padding, set the text to center, fixed the position to bottom, set the bottom of the screen, align to right, set full width*/
 footer {
     background-color: lightcoral;
@@ -100,6 +116,7 @@ footer {
     right: 0;
     width: 100%;
 }
+
 /*image site address (https://pixabay.com/photos/flowers-paper-colorful-decoration-4020984/)*/
 /*style for background image, set to stop repeatition,cover entire container, put on the center*/
 #body {
@@ -108,6 +125,7 @@ footer {
     background-size: cover;
     background-position: center;
 }
+
 /*style for id external, set position to relative, set text color, text center, remove padding, set full width, remove bottom margin*/
 #external {
     position: relative;
@@ -117,11 +135,13 @@ footer {
     width: 100%;
     margin-bottom: 0;
 }
+
 /*style for the class middle, text to center, set padding arount content*/
 .middle {
     text-align: center;
     padding: 1rem;
 }
+
 /*style for class login, makes text to bold, set font size, text to center, set fixed height, width to 90%, add padding and margin to center elements*/
 .login {
     font-weight: bold;
@@ -132,6 +152,7 @@ footer {
     padding: 10px;
     margin: 0 auto;
 }
+
 /*style for class paragraph, set text color, set background-color, font size, font wight to make bold, center the text, center elements, full container for width*/
 .paragraph {
     color: yellow;
@@ -142,35 +163,38 @@ footer {
     margin: 0 auto;
     width: 100%;
 }
+
 /*style for inputs, add border, margin, padding and full width*/
-form input[type="email"]
-form input[type="password"]
-form input[type="text"] 
-form input[type="submit"] {
+form input[type="email"] form input[type="password"] form input[type="text"] form input[type="submit"] {
     border: 2px solid black;
     margin: 1rem;
     padding: 1rem;
     width: 100%;
 }
+
 /*style for fieldset and remove border*/
 fieldset {
-border: none;
+    border: none;
 }
+
 /*style for id form-body, add margin, remove border*/
 #form-body {
     margin: 25px;
     border: none;
 }
+
 /*style for id h1, set font size, center text*/
 #h1 {
     font-size: 3rem;
     text-align: center;
 }
+
 /*style for id congratulation, set background-color, add padding*/
 #congratulation {
     background-color: burlywood;
     padding: 2rem;
 }
+
 /*style for class did-one, set background-color, set border, set width, fixed the height, set font size*/
 .div-one {
     background-color: brown;
@@ -179,6 +203,7 @@ border: none;
     height: 100px;
     font-size: 2rem;
 }
+
 /*style for class div-two, set background-color, border, width, fixed height and font size*/
 .div-two {
     background-color: brown;
@@ -187,6 +212,7 @@ border: none;
     height: 100px;
     font-size: 2rem;
 }
+
 /*style for id success, set font-size, add padding and text to center*/
 #success {
     font-size: 4rem;
@@ -199,7 +225,8 @@ border: none;
 #booked {
     background-image: url(https://img.freepik.com/free-vector/gold-confetti-celebratory-design_53876-67670.jpg?t=st=1731458867~exp=1731462467~hmac=5d15a89c15b86817d64febd1e041ffcf3bf3eff9a726acb85faac83d13860e24&w=1060);
 }
-/*this is for mobile base*/
+
+/*this is for the dropdown menu*/
 /*style for class one, set position relative, text color, text center, remove padding, full width, hides elements*/
 .one {
     position: relative;
@@ -209,42 +236,48 @@ border: none;
     width: 100%;
     display: none;
 }
+
 /*style for list inside id link, set no style for bullets points, add padding*/
-#link li{
+#link li {
     list-style: none;
     padding: 0.5rem;
 }
+
 /*style for id link, display as block elements*/
-#link{
+#link {
     display: block;
-    }
+}
 
 /*media query for tablets and larger items , hides elements, set position  relative, remove box shadow,set swidth to fit content, set right padding*/
-@media screen and (min-width:768px){
-  .one{
-    display: none;
-    position: relative;
-    box-shadow: none;
-    width: fit-content;
-    padding-right: 1rem;
-  }  
-}
-/*style id link, display in flex container*/
-#link{
-    display: flex;
+@media screen and (min-width:768px) {
+    .one {
+        display: none;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
     }
-    /*style for list inside the id link, set padding left and remove list style*/
-#link > li{
+}
+
+/*style id link, display in flex container*/
+#link {
+    display: flex;
+}
+
+/*style for list inside the id link, set padding left and remove list style*/
+#link>li {
     padding-left: 1rem;
     list-style: none;
 }
+
 /*style for id check-label, hides elements*/
-#check-label{
-    display:none;
+#check-label {
+    display: none;
 }
+
 /*media query for laptop and up, add border*/
-@media screen and (min-width: 992px){
-  #link a:hover{
-    border-bottom: 1px solid grey;
-  } 
+@media screen and (min-width: 992px) {
+    #link a:hover {
+        border-bottom: 1px solid grey;
+    }
 }
