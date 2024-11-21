@@ -286,7 +286,7 @@ label[for="check-label"]{
 }
 /*media query for laptop and up, add border*/
 @media screen and (min-width: 992px) {
-    #link a:hover{
+    #link li a:hover{
         background-color: yellow;
     }
    
