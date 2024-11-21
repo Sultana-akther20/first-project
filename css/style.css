@@ -11,12 +11,15 @@ body {
     background-color: blanchedalmond;
     padding-top: 2rem;
     padding-bottom: 9rem;
+    display: flex;
+    flex-direction: column;
     margin: auto;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 /*style the class home for header home page header, display items in flex container, space items evenly, center items vertically, add padding*/
 .home {
+    width: 90%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -39,6 +42,7 @@ body {
 /*add hover effect on the links, on hover change color*/
 nav a:hover {
     color: darkgreen;
+    text-decoration: none;
 }
 
 /*style for anchor tags, padding around links, remove defaults underline,color to blue to the links*/
@@ -99,6 +103,7 @@ video {
     overflow: hidden;
     width: 50%;
     height: 300px;
+    padding: 20px;
 }
 
 /*style for class address, set the width to half of the container*/
@@ -122,18 +127,22 @@ footer {
 #body {
     background-image: url(https://cdn.pixabay.com/photo/2019/02/26/01/51/flowers-4020984_1280.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+    padding: 0;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
 }
 
 /*style for id external, set position to relative, set text color, text center, remove padding, set full width, remove bottom margin*/
-#external {
+#external a {
     position: relative;
-    color: aliceblue;
+    color: rgba(black);
     text-align: center;
     padding: 0;
     width: 100%;
-    margin-bottom: 0;
+    background-color: aliceblue;
+    margin: 0 auto;
+    
 }
 
 /*style for the class middle, text to center, set padding arount content*/
@@ -251,13 +260,13 @@ fieldset {
 /*media query for tablets and larger items , hides elements, set position  relative, remove box shadow,set swidth to fit content, set right padding*/
 @media screen and (min-width:768px) {
     .one {
-        display: none;
+        display: block;
         position: relative;
         box-shadow: none;
         width: fit-content;
         padding-right: 1rem;
     }
-}
+
 
 /*style id link, display in flex container*/
 #link {
@@ -274,10 +283,15 @@ fieldset {
 #check-label {
     display: none;
 }
-
+}
 /*media query for laptop and up, add border*/
 @media screen and (min-width: 992px) {
-    #link a:hover {
-        border-bottom: 1px solid grey;
+    #link a:hover{
+        background-color: yellow;
     }
+   .one{
+    display:block;
+    position: relative;
+   } 
+
 }
