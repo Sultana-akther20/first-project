@@ -280,7 +280,7 @@ fieldset {
 }
 
 /*style for id check-label, hides elements*/
-#check-label {
+label[for="check-label"]{
     display: none;
 }
 }
@@ -289,9 +289,5 @@ fieldset {
     #link a:hover{
         background-color: yellow;
     }
-   .one{
-    display:block;
-    position: relative;
-   } 
-
+   
 }
