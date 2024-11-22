@@ -1,9 +1,10 @@
 <h1 align="center"> Blooming Wedding Season</h1>
-[Live project to view] (https://github.com/Sultana.akther20/first-project.git)
+[Blooming Wedding season] (https://github.com/Sultana.akther20/first-project.git)
 <h2>My website discription:</h2> 
 my website is for marketing. I have designed it for range of devices. I have make it for wedding planners, brides, grooms, bridesmade, organizations, for small parties, parents etc, who are tring to organize the different parties and wants to get everything in one place, for them. if they sign up to our website as a member, the will get a 10% discount. To make a booking they have to fill the form and they can give us feedback, so we can improve.
 
 ##Testing client user stories:
+
 ###First time visitor
 1. As a first time visitor, I want to read the description of the webpage, so I can have some knowladge about the page.
 2.As a first time visitor, I want look for the items that I'm looking for, so I can decide.
@@ -23,24 +24,33 @@ my website is for marketing. I have designed it for range of devices. I have mak
 ###color: 
 I used text color and background color to make the page nicer.
 
-###font: 
+###font:
 I used (Arial, Helvetica, sans-serif) incase any one font not available so it can use sans-serif. 
+
 ###image:
 I used images on the page along in a row and add styles to make height width perfectly and use gap etc.
+
 ###video: 
 I used a nicely decorated video on main page for visual attarction and adjust the width and height etc.
+
 ###nav bar for anchor links:
 I used Anchor links and used style to appear on the top right side. I makes internal and external links.
+
 ###products
 I put products inside an ul li to make it looks neat.
+
 ###contact and address:
 I used contact details in a table and use our address to find us.
+
 ###iframe
 I used iframe from google map. I copied the html code from google.
+
 ###footer
 I used footer for social media links and copyright symbol and used Font awesome kit website and copied the social media links icons.
+
 ###form
 I used form for login page and form page and used buttons, checkboxs fieldset and textarea for feedback and style them beautifully.
+
 ###bootstrap
 I used bootstrap to make the congratulation page looks nicer.
 
@@ -48,6 +58,7 @@ I used bootstrap to make the congratulation page looks nicer.
 after openning the main page if you likes and wnat to sign up then click on the login page to register. After clicking the rigester button it will take you to the congratulation page and to make a booking you need to fill up the form and if you want us to improve something, you can give us feedback. After clicking submit button it will take you to the another page and will say you have booked successfully. if you want to return to home page, there is a link to click to return.
 
 ##technologies used-
+
 ###language use
 1.[HTML5](https://en.wikipedia.org/wiki/HTML5)
 2.[CSS3](https://en.wikipedia.org/wiki/CSS3)
@@ -58,6 +69,7 @@ after openning the main page if you likes and wnat to sign up then click on the 
 3.[git](https://git-scm.com/)
 4.[github](https://github.com/)
 5.[Figma](https://www.figma.com/)
+
 ##target audience:
 1. brides
 2. grooms
@@ -71,20 +83,20 @@ Home page Wireframe
 
 ##testing
 I used W3C html and W3C css validator for testing my code.
-##testing further
-
 
 ##known bugs
 iframe wasn't working because I manually typed iframe and got the link from google and couldent copy the link so i copied web address. After doing this it appears the hole content of all side with map. I used overflow hidden but it didn't work. then my friend showed me how to how to get the iframe and it is working nicely now.
+
 ##content
 content was written by me but some structures and ideas I have got from code institute page.
+
 ##media
 all the images, video and background-image i used from free website and commented the site address of media in code.
+
 ##get helps from:
 code institute website,
  from my friends,
  from my tutor.
-
 
 ###Deployment
 This project was diployed to github by login to the github and set up in a repository.
