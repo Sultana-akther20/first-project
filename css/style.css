@@ -5,6 +5,9 @@ h1 {
     text-align: center;
     font-weight: bold;
 }
+#logo{
+    text-align: center;
+}
 
 /*style for the body, set background-color of the page, add top padding, margin for the centers content and sets font family.*/
 body {
