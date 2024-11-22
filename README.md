@@ -1,5 +1,5 @@
 <h1 align="center"> Blooming Wedding Season</h1>
-[Blooming Wedding season] (https://github.com/Sultana.akther20/first-project.git)
+[Blooming Wedding season] (https://8000-sultanaakth-firstprojec-pv4brmku19b.ws.codeinstitute-ide.net/)
 <h2>My website discription:</h2> 
 my website is for marketing. I have designed it for range of devices. I have make it for wedding planners, brides, grooms, bridesmade, organizations, for small parties, parents etc, who are tring to organize the different parties and wants to get everything in one place, for them. if they sign up to our website as a member, the will get a 10% discount. To make a booking they have to fill the form and they can give us feedback, so we can improve.
 
