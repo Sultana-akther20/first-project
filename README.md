@@ -102,15 +102,20 @@ code institute website,
 This project was diployed to github by login to the github and set up in a repository.
 
 ###How I create README.md file
+
 I watched videoes, and get most of the idea from Code Institute website,Sample of README.md file.
 
 ##This is for Wireframe
+
 ![screen shot for figma](https://github.com/user-attachments/assets/d99ce186-9db3-495b-bac3-8f5c119d1a33)
 
 ##This is for Gantt chart
+
 ![gant chart 1](https://github.com/user-attachments/assets/183e92ed-258d-4e9b-9bff-8f43dc54249c)
 
 ##This is for test plan
+
+
 ![testing 1](https://github.com/user-attachments/assets/a90fdf08-9ccc-4aec-84e9-dde5e185aeb1)
 ![Testing 2](https://github.com/user-attachments/assets/93ecd25f-8cef-47aa-bcfa-484436e57817)
 ![testing 3](https://github.com/user-attachments/assets/fd862ac3-199c-41bc-8c44-6c2f29b84643)
