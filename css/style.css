@@ -5,7 +5,8 @@ h1 {
     text-align: center;
     font-weight: bold;
 }
-#logo{
+
+#logo {
     text-align: center;
 }
 
@@ -125,10 +126,10 @@ footer {
     width: 100%;
 }
 
-/*image site address (https://pixabay.com/photos/flowers-paper-colorful-decoration-4020984/)*/
+/*image site address (https://www.pexels.com/photo/white-petaled-flowers-414660/)*/
 /*style for background image, set to stop repeatition,cover entire container, put on the center*/
 #body {
-    background-image: url(https://cdn.pixabay.com/photo/2019/02/26/01/51/flowers-4020984_1280.jpg);
+    background-image: url(https://images.pexels.com/photos/414660/pexels-photo-414660.jpeg);
     background-repeat: no-repeat;
     padding: 0;
     margin: 0;
@@ -147,7 +148,7 @@ footer {
     width: 100%;
     background-color: aliceblue;
     margin: 0 auto;
-    
+
 }
 
 /*style for the class middle, text to center, set padding arount content*/
@@ -273,26 +274,27 @@ fieldset {
     }
 
 
-/*style id link, display in flex container*/
-#link {
-    display: flex;
+    /*style id link, display in flex container*/
+    #link {
+        display: flex;
+    }
+
+    /*style for list inside the id link, set padding left and remove list style*/
+    #link>li {
+        padding-left: 1rem;
+        list-style: none;
+    }
+
+    /*style for id check-label, hides elements*/
+    label[for="check-label"] {
+        display: none;
+    }
 }
 
-/*style for list inside the id link, set padding left and remove list style*/
-#link>li {
-    padding-left: 1rem;
-    list-style: none;
-}
-
-/*style for id check-label, hides elements*/
-label[for="check-label"]{
-    display: none;
-}
-}
 /*media query for laptop and up, add border*/
 @media screen and (min-width: 992px) {
-    #link li a:hover{
+    #link li a:hover {
         background-color: yellow;
     }
-   
+
 }
