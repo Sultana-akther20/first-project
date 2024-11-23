@@ -6,10 +6,6 @@ h1 {
     font-weight: bold;
 }
 
-#logo {
-    text-align: center;
-}
-
 /*style for the body, set background-color of the page, add top padding, margin for the centers content and sets font family.*/
 body {
     background-color: blanchedalmond;
@@ -291,7 +287,7 @@ fieldset {
     }
 }
 
-/*media query for laptop and up, add border*/
+/*media query for laptop and up*/
 @media screen and (min-width: 992px) {
     #link li a:hover {
         background-color: yellow;
