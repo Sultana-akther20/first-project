@@ -73,16 +73,9 @@ a {
     color: black;
     background-repeat: no-repeat;
 }
-
-/*style for inside class two images, set fixed height and width*/
-.two img {
-    height: 400px;
-    width: 300px;
-}
-
-/*style for class three, width fixed*/
-.three {
-    width: 300px;
+#product-details{
+    text-align: justify;
+    font-weight: bold;
 }
 
 /*style for the video, set full width and height for vh*/
@@ -242,7 +235,7 @@ fieldset {
 .one {
     position: relative;
     color: aliceblue;
-    text-align: center;
+    text-align: right;
     padding: 0;
     width: 100%;
     display: none;
@@ -252,6 +245,7 @@ fieldset {
 #link li {
     list-style: none;
     padding: 0.5rem;
+    text-align: right;
 }
 
 /*style for id link, display as block elements*/
