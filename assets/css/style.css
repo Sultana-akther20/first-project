@@ -66,12 +66,12 @@ a {
     height: auto;
 }
 
-/*background image address (https://www.dreamstime.com/fern-rain-forest-green-leaf-plant-springtime-stock-images-image-free-129149944)*/
 /*style id contact for background-image,set text color, prevents repeatition*/
 #contact {
-    background-image: url(https://thumbs.dreamstime.com/z/beautiful-delicate-background-blossoming-light-pink-sakura-flowers-place-text-delicate-floral-design-realistic-145967566.jpg);
+    background-image: url(https://images.pexels.com/photos/7679917/pexels-photo-7679917.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
     color: black;
     background-repeat: no-repeat;
+    background-position: center;
 }
 #product-details{
     text-align: justify;
@@ -118,7 +118,7 @@ footer {
 /*image site address (https://www.pexels.com/photo/white-petaled-flowers-414660/)*/
 /*style for background image, set to stop repeatition,cover entire container, put on the center*/
 #body {
-    background-image: url(https://images.pexels.com/photos/414660/pexels-photo-414660.jpeg);
+    background-image: url(https://images.pexels.com/photos/7679917/pexels-photo-7679917.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
     background-repeat: no-repeat;
     padding: 0;
     margin: 0;
