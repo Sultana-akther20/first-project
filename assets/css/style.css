@@ -231,6 +231,17 @@ fieldset {
 /*style for id booked, used background image*/
 #booked {
     background-image: url(../css/images/gold-confetti-celebratory-design.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    padding: 0;
+    margin: 0;
+}
+booked-nav{
+    text-align: top center;
+    text-decoration: ;
 }
 
 /*this is for the dropdown menu*/
