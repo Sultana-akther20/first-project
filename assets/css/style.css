@@ -6,6 +6,7 @@ h1 {
     font-weight: bold;
 }
 
+
 /*style for the body, set background-color of the page, add top padding, margin for the centers content and sets font family.*/
 body {
     background-color: blanchedalmond;
@@ -241,7 +242,7 @@ fieldset {
 }
 booked-nav{
     text-align: top center;
-    text-decoration: ;
+    
 }
 
 /*this is for the dropdown menu*/
