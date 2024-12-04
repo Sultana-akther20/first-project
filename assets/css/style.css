@@ -68,7 +68,7 @@ a {
 
 /*style id contact for background-image,set text color, prevents repeatition*/
 #contact {
-    background-image: url(https://images.pexels.com/photos/7679917/pexels-photo-7679917.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    background-image: url("../css/images/background-heart.webp");
     color: black;
     background-repeat: no-repeat;
     background-position: center;
@@ -118,7 +118,7 @@ footer {
 /*image site address (https://www.pexels.com/photo/white-petaled-flowers-414660/)*/
 /*style for background image, set to stop repeatition,cover entire container, put on the center*/
 #body {
-    background-image: url(https://images.pexels.com/photos/7679917/pexels-photo-7679917.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    background-image: url(../css/images/pink-decoration.webp);
     background-repeat: no-repeat;
     padding: 0;
     margin: 0;
@@ -169,7 +169,10 @@ footer {
 }
 
 /*style for inputs, add border, margin, padding and full width*/
-form input[type="email"] form input[type="password"] form input[type="text"] form input[type="submit"] {
+form input[type="email"]
+form input[type="password"] 
+form input[type="text"] 
+form input[type="submit"] {
     border: 2px solid black;
     margin: 1rem;
     padding: 1rem;
@@ -227,7 +230,7 @@ fieldset {
 /*image webside(https://www.freepik.com/free-vector/gold-confetti-celebratory-design_3603091.htm#fromView=keyword&page=1&position=4&uuid=ca1f30d6-8d43-4723-9326-470ca66abf43)*/
 /*style for id booked, used background image*/
 #booked {
-    background-image: url(https://img.freepik.com/free-vector/gold-confetti-celebratory-design_53876-67670.jpg?t=st=1731458867~exp=1731462467~hmac=5d15a89c15b86817d64febd1e041ffcf3bf3eff9a726acb85faac83d13860e24&w=1060);
+    background-image: url(../css/images/gold-confetti-celebratory-design.jpg);
 }
 
 /*this is for the dropdown menu*/
