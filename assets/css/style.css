@@ -73,6 +73,21 @@ a {
     color: black;
     background-repeat: no-repeat;
     background-position: center;
+    text-align: center;
+    font-weight: bolder;
+    min-height: 50vh;
+}
+.contact-container{
+    justify-content: center;
+    align-items: center;
+}
+table{
+    margin: 0;
+    width: 100%;
+}
+th, td{
+    padding:8px;
+    text-align: center;
 }
 #product-details{
     text-align: justify;
