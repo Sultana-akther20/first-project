@@ -73,9 +73,11 @@ a {
     color: black;
     background-repeat: no-repeat;
     background-position: center;
+    background-size: cover;
     text-align: center;
     font-weight: bolder;
     min-height: 50vh;
+
 }
 .contact-container{
     justify-content: center;
