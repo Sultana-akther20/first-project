@@ -243,7 +243,7 @@ fieldset {
 }
 #booked-nav{
     text-align: center;
-    padding-top: 1rem;
+    padding-top: 2rem;
     
 }
 
@@ -279,6 +279,14 @@ fieldset {
 #h1{
     padding: 1rem;
     font-size: 1.5rem;
+}
+#success{
+    font-size: 1.2rem;
+}
+#booked-nav{
+    display: block;
+    margin: 5px;
+    align-items: center;
 }
 }
 
