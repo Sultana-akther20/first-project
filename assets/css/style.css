@@ -274,6 +274,18 @@ booked-nav{
 #link {
     display: block;
 }
+/*media query for mobile*/
+@media screen and (max-width:768px) {
+.div-one{
+    height: auto;
+    width: 90%;
+    font-size: 1rem;
+}
+#h1{
+    padding: 1rem;
+    font-size: 1.5rem;
+}
+}
 
 /*media query for tablets and larger items , hides elements, set position  relative, remove box shadow,set swidth to fit content, set right padding*/
 @media screen and (min-width:768px) {
@@ -300,6 +312,11 @@ booked-nav{
     /*style for id check-label, hides elements*/
     label[for="check-label"] {
         display: none;
+    }
+    .div-one{
+        font-size: 1.2rem;
+        width: 50%;
+        height: 80px;
     }
 }
 
