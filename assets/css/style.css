@@ -147,7 +147,7 @@ footer {
 /*style for id external, set position to relative, set text color, text center, remove padding, set full width, remove bottom margin*/
 #external a {
     position: relative;
-    color: rgba(black);
+    color: black;
     text-align: center;
     padding: 0;
     width: 100%;
