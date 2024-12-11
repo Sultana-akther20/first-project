@@ -67,28 +67,28 @@ a {
     height: auto;
 }
 
-/*style id contact for background-image,set text color, prevents repeatition*/
+/*style id contact for background-image,set text to center, make the font weight bolder*/
 #contact {
     text-align: center;
     font-weight: bolder;
 }
 
+/*Style the container to center its horizentally and vertically*/
 .contact-container {
     justify-content: center;
     align-items: center;
 }
-
+/*Style for the table with full width and remove default margin*/
 table {
     margin: 0;
     width: 100%;
 }
-
-th,
-td {
+/*Style for the table header and table data and use 8px in each table cell for padding and text in center*/
+th, td {
     padding: 8px;
     text-align: center;
 }
-
+/*Style for the product and justified alingment and bold*/
 #product-details {
     text-align: justify;
     font-weight: bold;
