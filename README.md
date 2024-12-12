@@ -31,14 +31,17 @@ After openning the main page if you like our site and want to sign up then click
 
 
 ##Design and Elements etc-
+
 ###Colour: 
 
-I used text colour and background colour to make the page nicer. For text colour I used dark and for background colour I used blanchedalmond. 
+I used text colour and background colour to make the page nicer. For text colour I used black and for background colour I used blanchedalmond. 
 
 ###Font:
+
 I used (Arial, Helvetica, sans-serif) incase any one font not available so it can use sans-serif. 
 
 ###Image:
+
 I used images on the page along in a row and add styles to make height width perfectly and use gap etc.
 
 ###Video: 
