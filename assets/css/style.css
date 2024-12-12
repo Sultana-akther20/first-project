@@ -78,16 +78,20 @@ a {
     justify-content: center;
     align-items: center;
 }
+
 /*Style for the table with full width and remove default margin*/
 table {
     margin: 0;
     width: 100%;
 }
+
 /*Style for the table header and table data and use 8px in each table cell for padding and text in center*/
-th, td {
+th,
+td {
     padding: 8px;
     text-align: center;
 }
+
 /*Style for the product and justified alingment and bold*/
 #product-details {
     text-align: justify;
