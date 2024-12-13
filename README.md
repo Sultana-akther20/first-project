@@ -170,18 +170,9 @@ I made home page Wireframe from figma.
 
 ![gant chart 1](https://github.com/user-attachments/assets/183e92ed-258d-4e9b-9bff-8f43dc54249c)
 
-##This is for test plan:
-
-
-![testing 1](https://github.com/user-attachments/assets/a90fdf08-9ccc-4aec-84e9-dde5e185aeb1)
-![Testing 2](https://github.com/user-attachments/assets/93ecd25f-8cef-47aa-bcfa-484436e57817)
-![testing 3](https://github.com/user-attachments/assets/fd862ac3-199c-41bc-8c44-6c2f29b84643)
-![testing 4](https://github.com/user-attachments/assets/63cd5d3e-19c7-4d70-8629-dd9b5f2a9249)
-![testing 5](https://github.com/user-attachments/assets/33aedbad-3c63-4b02-a35e-7c1344f898d4)
-
 ##Test Plan
 
-![Test-plan-1](https://github.com/user-attachments/assets/e0c5b50d-55c0-461b-8f31-c42aa104aa3a)
-![Test-plan-2](https://github.com/user-attachments/assets/0ead44d7-9811-49de-8991-06508e3bc685)
-![Test-plan-3-new](https://github.com/user-attachments/assets/1f4856b5-35e1-4c56-a38d-17f58a0f3609)
-![Test-plan-4](https://github.com/user-attachments/assets/6cf5d97a-5b20-4765-9aab-92a3b13a8537)
+![TEST-PLAN-ONE](https://github.com/user-attachments/assets/d6c65bac-3fe2-4553-8be5-85c89a27dc96)
+![TEST-PLAN-TWO](https://github.com/user-attachments/assets/69d2c3ca-f88a-4d29-b75f-fb02013d20b6)
+![TEST-PLAN-THREE](https://github.com/user-attachments/assets/39bdb05d-f67b-4845-ad66-b2ccb02aaeae)
+![TEST-PLAN-FOUR](https://github.com/user-attachments/assets/6e978284-fcb2-4621-bc2d-d7b171acc7d7)
