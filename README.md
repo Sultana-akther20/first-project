@@ -179,3 +179,9 @@ I made home page Wireframe from figma.
 ![testing 4](https://github.com/user-attachments/assets/63cd5d3e-19c7-4d70-8629-dd9b5f2a9249)
 ![testing 5](https://github.com/user-attachments/assets/33aedbad-3c63-4b02-a35e-7c1344f898d4)
 
+##Test Plan
+
+![Test-plan-1](https://github.com/user-attachments/assets/e0c5b50d-55c0-461b-8f31-c42aa104aa3a)
+![Test-plan-2](https://github.com/user-attachments/assets/0ead44d7-9811-49de-8991-06508e3bc685)
+![Test-plan-3-new](https://github.com/user-attachments/assets/1f4856b5-35e1-4c56-a38d-17f58a0f3609)
+![Test-plan-4](https://github.com/user-attachments/assets/6cf5d97a-5b20-4765-9aab-92a3b13a8537)
