@@ -43,10 +43,15 @@ I used (Arial, Helvetica, sans-serif) incase any one font not available so it ca
 ###Image:
 
 I used images on the page along in a row and add styles to make height width perfectly and use gap etc.
+Image address site (https://pixabay.com/photos/red-bride-indian-bride-8457517/)
+Image address (https://pixabay.com/photos/wedding-dress-fashion-bride-veil-1486260/)
+Image address (https://pixabay.com/photos/wedding-couple-newlyweds-car-8176868/)
+Image address (https://pixabay.com/photos/beach-wedding-reception-1854076/)
 
 ###Video: 
 
-I used a nicely decorated video on main page for visual attarction and adjust the width and height etc.
+I used a nicely decorated video from onine on main page for visual attarction and adjust the width and height etc.
+There is the video link (https://videocdn.cdnpk.net/videos/2f0df7a7-5851-4932-8ea6-2e4ab3cfa37f/horizontal/previews/videvo_watermarked/large.mp4)
 
 ###Nav bar for anchor links:
 
@@ -82,7 +87,7 @@ I used bootstrap to make the congratulation page looks nicer.
 
 ##known bugs: 
 
-iframe wasn't working because I manually typed iframe and got the link from google and could not copy the link, so I copied web address. After doing this it appears the hole content of all side with map. I used overflow hidden but it didn't work. then my friend showed me how to get the iframe and it is working now nicely.
+iframe wasn't working because I manually typed iframe and got the link from google and could not copy the link, so I copied web address. After doing this it appears the hole content of all side with map. I used overflow hidden but it didn't work. then my friend showed me how to get the iframe and it is working now nicely. I tried to make my website resposive for all devices but it wasn't working, then I tried many ways to fix this. At the end I found I put closing curley bracket for media query and I add the detailes I want the website to show outside the closing curley bracket. That's why it wasn't working.
 
 ##content:
 
