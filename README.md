@@ -30,7 +30,7 @@ After openning the main page if you like our site and want to sign up then click
 1.As a first time buyer, if you sign up as a member of our website, you will get 10% discount.
 
 
-##Design and Elements etc-
+##Design and Elements etc I used from-
 
 ###Colour: 
 
