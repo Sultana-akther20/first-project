@@ -181,3 +181,24 @@ I made home page Wireframe from figma.
 ![TEST-PLAN-TWO](https://github.com/user-attachments/assets/69d2c3ca-f88a-4d29-b75f-fb02013d20b6)
 ![TEST-PLAN-THREE](https://github.com/user-attachments/assets/39bdb05d-f67b-4845-ad66-b2ccb02aaeae)
 ![TEST-PLAN-FOUR](https://github.com/user-attachments/assets/6e978284-fcb2-4621-bc2d-d7b171acc7d7)
+
+##Screen-shots for the pages
+
+![hovereffect-screenshot](https://github.com/user-attachments/assets/168b43c6-f33b-43c3-b3fa-01f5ed21ddf9)
+![row-images](https://github.com/user-attachments/assets/5d9bfa65-139f-445e-b8fb-5289367110a2)
+![correction-map](https://github.com/user-attachments/assets/910c2884-1809-4447-a400-e45cc64137c4)
+![Wrong-map](https://github.com/user-attachments/assets/e367748f-fefe-4911-b7a2-a67c44e5bac6)
+
+![background-img-screenshot](https://github.com/user-attachments/assets/28fbc0d9-53b6-4fdf-a105-d63ce3cb82da)
+
+![background-colour](https://github.com/user-attachments/assets/2b9d7d0c-ae2c-4b44-928a-16891ad1acc5)
+
+![login-congratulation-page](https://github.com/user-attachments/assets/c7a82fa1-fb0a-40a9-a24a-826e6d8ffaa4)
+
+![External-link-correction](https://github.com/user-attachments/assets/6257558c-6c2f-4159-8a57-c83142b68af6)
+
+![mobile-base](https://github.com/user-attachments/assets/07c490dc-cf56-4aa9-b4f7-53d1c86b8237)
+
+![ipad- base](https://github.com/user-attachments/assets/7c188735-b448-470c-9c3f-763a5c2463e7)
+
+![laptop-base-1](https://github.com/user-attachments/assets/946793ff-80d9-47cf-acb4-1ce57fff5bb2)
