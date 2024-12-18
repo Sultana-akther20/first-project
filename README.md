@@ -184,8 +184,10 @@ I made home page Wireframe from figma.
 
 ##Screen-shots for the pages
 
+![index-first-section](https://github.com/user-attachments/assets/97f243b7-14c4-4f91-9922-1a210f2fa675)
 ![hovereffect-screenshot](https://github.com/user-attachments/assets/168b43c6-f33b-43c3-b3fa-01f5ed21ddf9)
 ![row-images](https://github.com/user-attachments/assets/5d9bfa65-139f-445e-b8fb-5289367110a2)
+![product and contact section](https://github.com/user-attachments/assets/aa3ee7ae-72e6-4df3-b9a3-5f0c98734377)
 ![correction-map](https://github.com/user-attachments/assets/910c2884-1809-4447-a400-e45cc64137c4)
 ![Wrong-map](https://github.com/user-attachments/assets/e367748f-fefe-4911-b7a2-a67c44e5bac6)
 
