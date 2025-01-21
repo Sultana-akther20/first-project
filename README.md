@@ -1,7 +1,7 @@
 <h1 align="center"> Blooming Wedding Season</h1>
 [Blooming Wedding season] (https://8000-sultanaakth-firstprojec-pv4brmku19b.ws.codeinstitute-ide.net/index.html)
 
-<h2>My website discription:</h2> 
+## My website discription:
 
 My website is for marketing. I have designed it for range of devices. I have make it for wedding planners, brides, grooms, bridesmade, organizations, for small parties, parents etc, who are trying to organize the different parties and wants to get everything at one place, for them. If they sign up to our website as a member, they will get 10% discount. To make a booking they have to fill the form and they can give us feedback, so we can improve.
 
@@ -21,7 +21,7 @@ After openning the main page if you like our site and want to sign up then click
 1.As a first time buyer, I want to find contact details and address, so I can contact.
 2.As a first time buyer, I want some previous events pictures, so I can have some sence of what the decoration would be look like and how the clothes design will be look like.
 
-### l.Local customer:
+### Local customer:
 
 1.As a local customer, I want to see social media links, so I can visit the site to check the products online.
 
