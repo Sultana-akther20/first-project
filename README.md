@@ -5,42 +5,42 @@
 
 My website is for marketing. I have designed it for range of devices. I have make it for wedding planners, brides, grooms, bridesmade, organizations, for small parties, parents etc, who are trying to organize the different parties and wants to get everything at one place, for them. If they sign up to our website as a member, they will get 10% discount. To make a booking they have to fill the form and they can give us feedback, so we can improve.
 
-##How to use links of my webpage:
+## How to use links of my webpage:
 
 After openning the main page if you like our site and want to sign up then click on the login page to register. After clicking the rigester button it will take you to the congratulation page and to make a booking you need to fill up the form and if you want us to improve something, you can give us feedback. After clicking submit button it will take you to the another page and will say you have booked successfully. if you want to return to home page, there are links you can click.
 
 
-##User Stories:
-###First time visitor:
+## User Stories:
+### First time visitor:
 
 1. As a first time visitor, I want to read the description of the webpage, so I can have some knowladge about the page.
 2.As a first time visitor, I want look for the items that I'm looking for, so I can decide.
 
-###First time buyer:
+### First time buyer:
 
 1.As a first time buyer, I want to find contact details and address, so I can contact.
 2.As a first time buyer, I want some previous events pictures, so I can have some sence of what the decoration would be look like and how the clothes design will be look like.
 
-###l#Local customer:
+### l.Local customer:
 
 1.As a local customer, I want to see social media links, so I can visit the site to check the products online.
 
-###From our website:
+### From our website:
 
 1.As a first time buyer, if you sign up as a member of our website, you will get 10% discount.
 
 
-##Design and Elements etc I used from-
+## Design and Elements etc I used from-
 
-###Colour: 
+### Colour: 
 
 I used text colour and background colour to make the page nicer. For text colour I used black and for background colour I used blanchedalmond. 
 
-###Font:
+### Font:
 
 I used (Arial, Helvetica, sans-serif) incase any one font not available so it can use sans-serif. 
 
-###Image:
+### Image:
 
 I used images on the page along in a row and add styles to make height width perfectly and use gap etc.
 Image address site (https://pixabay.com/photos/red-bride-indian-bride-8457517/)
@@ -48,75 +48,75 @@ Image address (https://pixabay.com/photos/wedding-dress-fashion-bride-veil-14862
 Image address (https://pixabay.com/photos/wedding-couple-newlyweds-car-8176868/)
 Image address (https://pixabay.com/photos/beach-wedding-reception-1854076/)
 
-###Video: 
+### Video: 
 
 I used a nicely decorated video from onine on main page for visual attarction and adjust the width and height etc.
 There is the video link (https://videocdn.cdnpk.net/videos/2f0df7a7-5851-4932-8ea6-2e4ab3cfa37f/horizontal/previews/videvo_watermarked/large.mp4)
 
-###Nav bar for anchor links:
+### Nav bar for anchor links:
 
 I used Anchor links and used style to appear on the top right side. I makes internal and external links.
 
-###Products:
+### Products:
 
 I put products inside an ul li to make it looks neat.
 
-###Contact and Address:
+### Contact and Address:
 
 I used contact details in a table and use our address to find us.
 
-###iframe:
+### iframe:
 
 I used iframe from google map. I copied the html code from google.
 
-###Footer:
+### Footer:
 
 I used footer for social media links and copyright symbol and used Font awesome kit website and copied the social media links icons.
 
-###Media Query:
+### Media Query:
 
 I used media query to make the pages responsive for different devices from smaller to large.
 
-###Form:
+### Form:
 
 I used form for login page and form page and used buttons, checkboxs fieldset and textarea for feedback and styled them beautifully.
 
-###Bootstrap:
+### Bootstrap:
 
 I used bootstrap to make the congratulation page looks nicer.
 
-##known bugs: 
+## known bugs: 
 
 iframe wasn't working because I manually typed iframe and got the link from google and could not copy the link, so I copied web address. After doing this it appears the hole content of all side with map. I used overflow hidden but it didn't work. then my friend showed me how to get the iframe and it is working now nicely. I tried to make my website resposive for all devices but it wasn't working, then I tried many ways to fix this. At the end I found I put closing curley bracket for media query and I add the detailes I want the website to show outside the closing curley bracket. That's why it wasn't working.
 
-##content:
+## content:
 
 Content was written by me but some structures and ideas I have got from code institute page.
 
-##media:
+## media:
 
 All the images, video and background-image I used from free websites and save them in images folder on gitpod. I used them on my code from folder.
 
-##get helps from:
+## get helps from:
 
  code institute website,
  from my friends,
  from my tutor.
 
-###Deployment:
+### Deployment:
 
 This project was diployed to github by login to the github and set up in a repository.
 
-###How I create README.md file:
+### How I create README.md file:
 
 I watched videoes, and get most of the idea from Code Institute website,Sample of README.md file.
 
-###Language used:
+### Language used:
 
 1.[HTML5](https://en.wikipedia.org/wiki/HTML5)
 2.[CSS3](https://en.wikipedia.org/wiki/CSS3)
 
-##frameworks libraries and programme used:
+## frameworks libraries and programme used:
 
 1.[Bootstrap](https://getbootstrap.com/) 
 2.[Font Awesome Kit](https://fontawesome.com/)
@@ -124,7 +124,7 @@ I watched videoes, and get most of the idea from Code Institute website,Sample o
 4.[github](https://github.com/)
 5.[Figma](https://www.figma.com/)
 
-##target audience:
+## target audience:
 
 1. brides
 2. grooms
@@ -133,11 +133,11 @@ I watched videoes, and get most of the idea from Code Institute website,Sample o
 5. wedding planner
 6.different organizations
 
-##testing:
+## testing:
 
 I used W3C html and W3C css validator for testing my code.
 
-##HTML validator proof:
+## HTML validator proof:
 
 ![index html validator error 1](https://github.com/user-attachments/assets/5ef7cdce-65df-4d3a-b10e-34f681aad3a9)
 ![index html validator error 2](https://github.com/user-attachments/assets/3cb2b436-c19a-4734-8301-d5d52839e233)
@@ -159,30 +159,30 @@ I used W3C html and W3C css validator for testing my code.
 
 ![booking html validator no errors](https://github.com/user-attachments/assets/277da011-10cb-4b7b-9b25-1af4d5c2b3a7)
 
-##CSS validator proof:
+## CSS validator proof:
 
 ![css validator error](https://github.com/user-attachments/assets/5aef005a-8f53-4dfb-a901-bd2357e72be8)
 
 ![css validator correction](https://github.com/user-attachments/assets/c1fc990c-bb99-4bac-b8f5-b41089e7317b)
 
 
-##Wireframe:
+## Wireframe:
 I made home page Wireframe from figma.
 
 ![screen shot for figma](https://github.com/user-attachments/assets/d99ce186-9db3-495b-bac3-8f5c119d1a33)
 
-##This is for Gantt chart:
+##T his is for Gantt chart:
 
 ![gant chart 1](https://github.com/user-attachments/assets/183e92ed-258d-4e9b-9bff-8f43dc54249c)
 
-##Test Plan
+## Test Plan
 
 ![TEST-PLAN-ONE](https://github.com/user-attachments/assets/d6c65bac-3fe2-4553-8be5-85c89a27dc96)
 ![TEST-PLAN-TWO](https://github.com/user-attachments/assets/69d2c3ca-f88a-4d29-b75f-fb02013d20b6)
 ![TEST-PLAN-THREE](https://github.com/user-attachments/assets/39bdb05d-f67b-4845-ad66-b2ccb02aaeae)
 ![TEST-PLAN-FOUR](https://github.com/user-attachments/assets/6e978284-fcb2-4621-bc2d-d7b171acc7d7)
 
-##Screen-shots for the pages
+## Screen-shots for the pages
 
 ![index-first-section](https://github.com/user-attachments/assets/97f243b7-14c4-4f91-9922-1a210f2fa675)
 ![hovereffect-screenshot](https://github.com/user-attachments/assets/168b43c6-f33b-43c3-b3fa-01f5ed21ddf9)
