@@ -87,7 +87,7 @@ I used bootstrap to make the congratulation page looks nicer.
 
 ## known bugs: 
 
-iframe wasn't working because I manually typed iframe and got the link from google and could not copy the link, so I copied web address. After doing this it appears the hole content of all side with map. I used overflow hidden but it didn't work. then my friend showed me how to get the iframe and it is working now nicely. I tried to make my website resposive for all devices but it wasn't working, then I tried many ways to fix this. At the end I found I put closing curley bracket for media query and I add the detailes I want the website to show outside the closing curley bracket. That's why it wasn't working.
+iframe wasn't working because I manually typed iframe and got the link from google and could not copy the link, so I copied web address. After doing this it appears the hole content of all side with map. I used overflow hidden but it didn't work. then my friend showed me how to get the iframe and it is working now nicely. I tried to make my website resposive for all devices but it wasn't working, then I tried many ways to fix this. At the end I found the problem. I put closing curley bracket for media query before adding the desing and then I used design to make the website responsive. That's why it wasn't working.
 
 ## content:
 
@@ -105,7 +105,22 @@ All the images, video and background-image I used from free websites and save th
 
 ### Deployment:
 
-This project was diployed to github by login to the github and set up in a repository.
+This project was diployed to github by login to the github and set up in a repository. I developed using the [Gitpod](https://sultana-akther20.github.io/project-quiz/) and VS Code. I commited to git and pushed to github using the gitpod.
+I have deployed this project from [GitHub repositories](https://github.com/Sultana-akther20/project-quiz.git), selected this the repository I'm working with, then selected the setting button from the top of the page and scroll down to the Pages section. after that on this page on the Source clicked and selected Master Branch. on the same page under the branch select main from dropdown menu and selsect root then clicked save. Then the page was refresh autometically and deployed. Then retrieved the link from the github pages. 
+
+### How to run this project locally
+* If the user wants to run this project, they have to Create a GitHub account, then they have to use the Chrome browser. 
+* After they need to install the Gitpod Browser Extensions for Chrome, then restart the browser.
+* Then log into Gitpod with their gitpod account and navigate to the [Project GitHub repository](https://github.com/Sultana-akther20/project-quiz.git).
+* Then they have to click the green "Gitpod" button in the top right corner of the repository and this will make a new gitpod workspace to be created from the code in github, so you can work locally.
+
+#### To work on the project within any local IDE
+* First they have to click this link [ Project GitHub repository](https://github.com/Sultana-akther20/project-quiz.git). Under the repository name, they have to click "Clone or download".
+* In the HTTPs section, copy the clone URL for the repository.
+* In their IDE open the terminal, then change the current working directory to the location where they want to cloned directory to be made.
+* Then type git clone and paste the URL they copied before, the project github repository one. 
+* Then press Enter and a local clone will be created for them. 
+
 
 ### How I create README.md file:
 
