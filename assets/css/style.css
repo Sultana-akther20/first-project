@@ -16,7 +16,7 @@ body {
     flex-direction: column;
     margin: auto;
     font-family: Arial, Helvetica, sans-serif;
-   align-items: center;
+    align-items: center;
 }
 
 /*style the class home for header home page header, display items in flex container, space items evenly, center items vertically, add padding*/
@@ -67,7 +67,6 @@ a {
     width: 23%;
     height: auto;
     object-fit: cover;
-
 }
 
 /*style id contact for background-image,set text to center, make the font weight bolder*/
