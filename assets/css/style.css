@@ -96,7 +96,8 @@ td {
 
 /*Style for the product and justified alingment and bold*/
 #product-details {
-    text-align: justify;
+    text-align: center;
+    align-items: center;
     font-weight: bold;
 }
 
@@ -111,6 +112,7 @@ video {
     display: flex;
     justify-content: space-between;
     align-items: center;
+
 }
 
 /*style for iframe, hides overflow content, set width to 50%*/
@@ -118,7 +120,6 @@ video {
     overflow: hidden;
     width: 50%;
     height: 300px;
-    padding: 20px;
 }
 
 /*style for class address, set the width to half of the container*/
@@ -301,6 +302,12 @@ fieldset {
         display: block;
         margin: 5px;
         align-items: center;
+    }
+    .container{
+        display: flex;
+        align-items: center;
+        width: 100%;
+        padding: 10px;
     }
 }
 
