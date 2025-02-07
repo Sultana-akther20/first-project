@@ -208,6 +208,7 @@ form input[type="email"] form input[type="password"] form input[type="text"] for
     align-items: start;
     flex-direction: column;
     justify-content: center;
+
 }
 
 /*style for id form-body, add margin, remove border*/
@@ -230,7 +231,6 @@ form input[type="email"] form input[type="password"] form input[type="text"] for
 .submit{
     display: flex;
     flex-direction: column;
-    
     justify-content: center;
     align-items: center;
 }
