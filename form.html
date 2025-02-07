@@ -27,8 +27,9 @@
          <a href="index.html#contact" aria-label="Go to the contact us section">Contact</a>
       </nav>
    </header>
+   <div class="form-container">
    <!--made form to make a booking -->
-   <form action="booking.html">
+   <form action="booking.html" class="button">
       <!--header for the form-->
       <h2>Enter your details:</h2>
       <!--used name button-->
@@ -47,6 +48,7 @@
          <option value="bridesmaid">Bridesmaid clothes</option>
       </select>
       <br>
+
       <!--used checkboxes for to choose the stages-->
       <p>Choose the type of decoration for the stage</p>
       <div>
@@ -63,34 +65,39 @@
       </div>
       <br>
       <!--used radio button to to choose the type of bouquet-->
-      <div>
          <p>What type of bouquet do you want?</p>
+         <div>
          <input id="bouquet" name="wedding-bouquet" value="bouquet" type="radio">
          <label for="bouquet">Wedding Bouquet</label>
+      </div>
+      <div>
          <input id="bouquet1" name="mahendi-bouquet" value="bouquet" type="radio">
          <label for="bouquet1">Mahendi Bouquet</label>
+      </div>
+      <div>
          <input id="bouquet2" name="bridesmaid-bouquet" value="bouquet" type="radio">
          <label for="bouquet2">Bridesmaid Bouquet</label>
       </div>
       <br>
+      <div class="fieldset">
       <!--used fieldset and textarea to feedback-->
       <fieldset>
          <label for="feedback">Give feedback about our website, so we can improve.</label>
          <br>
-         <textarea name="feedback" id="feedback" rows="3" cols="40"></textarea>
+         <textarea name="feedback" id="feedback" rows="3" cols="30"></textarea>
       </fieldset>
+   </div>
       <br>
       <!--this is submit button-->
-      <div>
+      <div class="submit">
          <input type="submit" value="submit">
-      </div>
       <br>
       <!--this is reset button-->
-      <div>
          <input type="reset" value="reset">
       </div>
    </form>
-   <footer>
+   </div>
+   <footer class="footer">
       <h3>Online Address to Find Us:</h3>
       <!--used links and icon form Font Awesomr Kit -->
       <a href="https://www.instagram.com/linabegum2020" target="_blank" rel="noopener"><i

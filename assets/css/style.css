@@ -178,6 +178,7 @@ footer {
     width: 90%;
     padding: 10px;
     margin: 0 auto;
+    align-items: center;
 }
 
 /*style for class paragraph, set text color, set background-color, font size, font wight to make bold, center the text, center elements, full container for width*/
@@ -197,23 +198,41 @@ form input[type="email"] form input[type="password"] form input[type="text"] for
     margin: 1rem;
     padding: 1rem;
     width: 100%;
+    align-items: center;
 }
 
 /*style for fieldset and remove border*/
-fieldset {
-    border: none;
+.fieldset {
+    width: 100%;
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+    justify-content: center;
 }
 
 /*style for id form-body, add margin, remove border*/
 #form-body {
     margin: 25px;
-    border: none;
+    border: 3px solid black;
+    align-items: center;
 }
 
 /*style for id h1, set font size, center text*/
 #h1 {
     font-size: 3rem;
     text-align: center;
+}
+
+.button{
+    display: flex;
+    flex-direction: column;
+}
+.submit{
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+    align-items: center;
 }
 
 /*style for id congratulation, set background-color, add padding*/
@@ -309,6 +328,22 @@ fieldset {
         width: 100%;
         padding: 10px;
     }
+    #form-body{
+        margin: auto;
+        padding: 20px;
+        border: none;
+    }
+    .form-container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 90%;
+    }
+.footer{
+    position: static;
+    width: 100%;
+    margin-top: 10px;
+}
 }
 
 /*media query for tablets and larger items , hides elements, set position  relative, remove box shadow,set swidth to fit content, set right padding*/
