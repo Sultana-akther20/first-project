@@ -1,5 +1,6 @@
 <h1 align="center"> Blooming Wedding Season</h1>
-[Blooming Wedding season] (https://8000-sultanaakth-firstprojec-pv4brmku19b.ws.codeinstitute-ide.net/index.html)
+[Blooming Wedding season] (https://sultana-akther20.github.io/first-project/
+)
 
 ## My website discription:
 
